@@ -1,0 +1,14 @@
+{
+  "tournament": {
+    "rounds": {
+      "roundOf16": "Huitièmes de finale",
+      "quarterFinals": "Quarts de finale",
+      "semiFinals": "Demi-finales",
+      "finals": "Finale"
+    },
+    "match": {
+      "vs": "contre",
+      "tbd": "À déterminer"
+    }
+  }
+} 

@@ -1,0 +1,65 @@
+Men's Tournament
+Group A
+John,Mike,4,3
+Alex,David,3,4
+Tom,Sam,4,4
+Peter,James,3,3
+
+Group B
+Sarah,Emma,4,4
+Lisa,Anna,3,3
+Kate,Mary,4,3
+Lucy,Jane,3,4
+
+Men's Elimination Phase
+Quarter Finals,John/Mike,Sarah/Emma,,
+Quarter Finals,Alex/David,Lisa/Anna,,
+Quarter Finals,Tom/Sam,Kate/Mary,,
+Quarter Finals,Peter/James,Lucy/Jane,,
+Semi Finals,John/Mike,Alex/David,6-4 6-2,John/Mike
+Semi Finals,Tom/Sam,Lucy/Jane,7-5 7-6,Tom/Sam
+Finals,John/Mike,Tom/Sam,6-4 4-6 7-6,John/Mike
+
+Women's Tournament
+Group A
+Emma,Sarah,4,4
+Anna,Lisa,3,3
+Mary,Kate,4,3
+Jane,Lucy,3,4
+
+Group B
+Sophie,Emma,4,4
+Laura,Anna,3,3
+Maria,Kate,4,3
+Elena,Lucy,3,4
+
+Women's Elimination Phase
+Quarter Finals,Emma/Sarah,Sophie/Emma,,
+Quarter Finals,Anna/Lisa,Laura/Anna,,
+Quarter Finals,Mary/Kate,Maria/Kate,,
+Quarter Finals,Jane/Lucy,Elena/Lucy,,
+Semi Finals,Emma/Sarah,Anna/Lisa,6-4 6-2,Emma/Sarah
+Semi Finals,Mary/Kate,Jane/Lucy,7-5 7-6,Mary/Kate
+Finals,Emma/Sarah,Mary/Kate,6-4 4-6 7-6,Emma/Sarah
+
+Mixed Tournament
+Group A
+John,Emma,4,4
+Alex,Anna,3,3
+Tom,Mary,4,3
+Peter,Jane,3,4
+
+Group B
+Mike,Sarah,4,4
+David,Lisa,3,3
+Sam,Kate,4,3
+James,Lucy,3,4
+
+Mixed Elimination Phase
+Quarter Finals,John/Emma,Mike/Sarah,,
+Quarter Finals,Alex/Anna,David/Lisa,,
+Quarter Finals,Tom/Mary,Sam/Kate,,
+Quarter Finals,Peter/Jane,James/Lucy,,
+Semi Finals,John/Emma,Alex/Anna,6-4 6-2,John/Emma
+Semi Finals,Tom/Mary,Peter/Jane,7-5 7-6,Tom/Mary
+Finals,John/Emma,Tom/Mary,6-4 4-6 7-6,John/Emma 
